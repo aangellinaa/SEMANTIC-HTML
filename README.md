@@ -22,7 +22,7 @@
        - *CSS Terhubung : File CSS eksternal dihubungkan melalui `<link>` untuk mendukung desain.*
        - *Struktur Lebih Rapi : Elemen-elemen HTML lebih tersusun sehingga mudah dipahami.*
   #
-  #
+  
 2. **CSS**
    
    a. Sebelum diperbaiki
