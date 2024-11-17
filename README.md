@@ -5,7 +5,7 @@
     Latihan Praktikum 1 Semantic HTML
 
 #### Analisis Perbedaan SEMANTIC-HTML
-1.) HTML
+ 1. HTML
    a.) Sebelum diperbaiki
        - Struktur Tidak Lengkap : Tag penting seperti <html>, <head>, dan <body> tidak digunakan, sehingga struktur dokumen HTML belum 
          sesuai standar.
