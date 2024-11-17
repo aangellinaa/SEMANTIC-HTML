@@ -22,9 +22,9 @@
   
 2. CSS
    a. Sebelum diperbaiki
-       - *Penulisan properti seperti 'text-align' dan 'padding' memiliki spasi tambahan yang tidak perlu, contohnya 'display : grid;' dan 
-         'padding: 5px;'.*
-       - *Menyertakan 'margin: 10px;' pada elemen 'body', yang membuat elemen grid memiliki jarak dari tepi layar.*
-   b. Setelah diperbaiki 
-       - *Penulisan properti lebih bersih tanpa adanya spasi yang tidak diperlukan, misalnya 'display: grid;'.*
-       - *Properti margin dihapus, sehingga grid memenuhi seluruh tinggi dan lebar viewport '(height: 100vh;)'.*
+      - *Penulisan properti seperti `text-align` dan `padding` memiliki spasi tambahan yang tidak perlu, contohnya `display : grid;` dan 
+         `padding: 5px;`.*
+      - *Menyertakan `margin: 10px;` pada elemen `body`, yang membuat elemen grid memiliki jarak dari tepi layar.*
+   b. Setelah diperbaiki
+      - *Penulisan properti lebih bersih tanpa adanya spasi yang tidak diperlukan, misalnya `display: grid;`.*
+      - *Properti margin dihapus, sehingga grid memenuhi seluruh tinggi dan lebar viewport `(height: 100vh;)`.*
