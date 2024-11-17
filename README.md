@@ -1,6 +1,8 @@
 # SEMANTIC-HTML
    Latihan Praktikum 1 Semantic HTML
+   
    Nama : Angellina
+   
    NIM  : 2205101019
 
 
