@@ -6,7 +6,7 @@
 
 ## Analisis Perbedaan SEMANTIC-HTML
  1. **HTML**
-   a. Sebelum diperbaiki
+    a. Sebelum diperbaiki
        - *Struktur Tidak Lengkap : Tag penting seperti `<html>`, `<head>`, dan `<body>` tidak digunakan, sehingga struktur dokumen HTML 
          belum sesuai standar.*
        - *Kurang Metadata : Tidak ada `<meta>` untuk informasi karakter encoding atau responsivitas.*
@@ -20,7 +20,7 @@
        - *CSS Terhubung : File CSS eksternal dihubungkan melalui `<link>` untuk mendukung desain.*
        - *Struktur Lebih Rapi : Elemen-elemen HTML lebih tersusun sehingga mudah dipahami.*
   
-2. CSS
+3. **CSS**
    a. Sebelum diperbaiki
       - *Penulisan properti seperti `text-align` dan `padding` memiliki spasi tambahan yang tidak perlu, contohnya `display : grid;` dan 
          `padding: 5px;`.*
