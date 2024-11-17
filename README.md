@@ -6,12 +6,14 @@
 
 ## Analisis Perbedaan SEMANTIC-HTML
  1. **HTML**
+    #
     a. Sebelum diperbaiki
        - *Struktur Tidak Lengkap : Tag penting seperti `<html>`, `<head>`, dan `<body>` tidak digunakan, sehingga struktur dokumen HTML 
          belum sesuai standar.*
        - *Kurang Metadata : Tidak ada `<meta>` untuk informasi karakter encoding atau responsivitas.*
        - *Tidak Ada Judul Halaman : Tidak ada tag `<title>`, sehingga halaman tidak memiliki nama saat ditampilkan di tab browser.*
        - *Link ke CSS Eksternal Belum Dihubungkan : Tidak ada cara untuk menghubungkan ke file CSS untuk mendukung desain halaman.*
+    #
    b. Setelah diperbaiki
        - *Struktur Lengkap : Tag `<html>`, `<head>`, dan `<body>` ditambahkan untuk memenuhi standar HTML5.*
        - *Metadata Ditambahkan : `<meta charset="UTF-8">` memastikan dukungan karakter internasional. `<meta name="viewport" 
